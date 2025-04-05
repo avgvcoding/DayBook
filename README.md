@@ -49,18 +49,19 @@ If you have any questions, feel free to reach out:
 
 ## Screenshots of the App
 
-![Screenshot-2024 (1)](https://github.com/avgvcoding/DayBook/assets/136979087/6d16d590-a786-4246-b02c-f3462f3b9cd8)
-![Screenshot-2024 (2)](https://github.com/avgvcoding/DayBook/assets/136979087/3ff0e79a-1778-48a2-8452-7ea833ace5fb)
-![Screenshot-2024 (3)](https://github.com/avgvcoding/DayBook/assets/136979087/41057d9e-cffe-4dda-8495-2b257dfd6aa3)
-![Screenshot-2024 (4)](https://github.com/avgvcoding/DayBook/assets/136979087/9a1a0a3e-cfed-45ae-a4e9-9eb92ebd7aa6)
-![Screenshot-2024 (5)](https://github.com/avgvcoding/DayBook/assets/136979087/09a6261e-1387-4e3b-a62d-da8da2445e64)
-![Screenshot-2024 (6)](https://github.com/avgvcoding/DayBook/assets/136979087/d17933f4-5eb3-4957-b650-ce152d67e5ca)
-![Screenshot-2024 (7)](https://github.com/avgvcoding/DayBook/assets/136979087/ed8c5ab9-e575-47f8-89d0-398fbdaf1420)
-![Screenshot-2024 (8)](https://github.com/avgvcoding/DayBook/assets/136979087/f002fd92-bf3a-41bd-a468-fa00ed29e933)
-![Screenshot-2024 (9)](https://github.com/avgvcoding/DayBook/assets/136979087/a9c890a0-166b-4203-82f3-808de0cfa392)
-![Screenshot-2024 (10)](https://github.com/avgvcoding/DayBook/assets/136979087/3d9c329f-bfb9-480c-af71-b81bf5b6ae63)
-![Screenshot-2024 (11)](https://github.com/avgvcoding/DayBook/assets/136979087/140a06de-edc4-4a6a-8551-4664e9421bca)
-![Screenshot-2024 (12)](https://github.com/avgvcoding/DayBook/assets/136979087/c641c41f-90de-47ad-9ba2-3ed89fa11065)
+<img src="https://github.com/avgvcoding/DayBook/assets/136979087/6d16d590-a786-4246-b02c-f3462f3b9cd8" width="300">  
+<img src="https://github.com/avgvcoding/DayBook/assets/136979087/3ff0e79a-1778-48a2-8452-7ea833ace5fb" width="300">  
+<img src="https://github.com/avgvcoding/DayBook/assets/136979087/41057d9e-cffe-4dda-8495-2b257dfd6aa3" width="300">  
+<img src="https://github.com/avgvcoding/DayBook/assets/136979087/9a1a0a3e-cfed-45ae-a4e9-9eb92ebd7aa6" width="300">  
+<img src="https://github.com/avgvcoding/DayBook/assets/136979087/09a6261e-1387-4e3b-a62d-da8da2445e64" width="300">  
+<img src="https://github.com/avgvcoding/DayBook/assets/136979087/d17933f4-5eb3-4957-b650-ce152d67e5ca" width="300">  
+<img src="https://github.com/avgvcoding/DayBook/assets/136979087/ed8c5ab9-e575-47f8-89d0-398fbdaf1420" width="300">  
+<img src="https://github.com/avgvcoding/DayBook/assets/136979087/f002fd92-bf3a-41bd-a468-fa00ed29e933" width="300">  
+<img src="https://github.com/avgvcoding/DayBook/assets/136979087/a9c890a0-166b-4203-82f3-808de0cfa392" width="300">  
+<img src="https://github.com/avgvcoding/DayBook/assets/136979087/3d9c329f-bfb9-480c-af71-b81bf5b6ae63" width="300">  
+<img src="https://github.com/avgvcoding/DayBook/assets/136979087/140a06de-edc4-4a6a-8551-4664e9421bca" width="300">  
+<img src="https://github.com/avgvcoding/DayBook/assets/136979087/c641c41f-90de-47ad-9ba2-3ed89fa11065" width="300">  
+
 
 
 ---
